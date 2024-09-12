@@ -1,3 +1,0 @@
-laserbeamFoam.C
-
-EXE = $(FOAM_USER_APPBIN)/laserbeamFoam
